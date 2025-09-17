@@ -43,7 +43,7 @@ class Calculator
         throw new NotImplementedException();
     }
 
-    // Подсказка: можешь добавить вспомогательные методы для ввода:
+    // Подсказка: можешь добавить вспомвапвапваогательные методы для ввода:
     // static double ReadDouble(string prompt) { ... }
     // static char ReadOperation(string prompt) { ... }
 }
